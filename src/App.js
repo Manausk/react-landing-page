@@ -9,13 +9,17 @@ function App() {
         <img src={logo} alt="logo" className="logo" />
         <ul>
           <li>
-            <a href="">Travel Guide</a>
+            <a href="https://www.worldtravelguide.net/">Travel Guide</a>
           </li>
           <li>
-            <a href="">Places To Visit</a>
+            <a href="https://www.holidify.com/country/india/places-to-visit.html">
+              Places To Visit
+            </a>
           </li>
           <li>
-            <a href="">Contact Us</a>
+            <a href="https://blog.hubspot.com/service/best-contact-us-pages">
+              Contact Us
+            </a>
           </li>
         </ul>
         <button className="btn">
